@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/price-wallah/static/css/main.c638b197.css",
-    "main.js": "/price-wallah/static/js/main.68658847.js",
-    "static/js/453.8785d31d.chunk.js": "/price-wallah/static/js/453.8785d31d.chunk.js",
-    "index.html": "/price-wallah/index.html",
-    "main.c638b197.css.map": "/price-wallah/static/css/main.c638b197.css.map",
-    "main.68658847.js.map": "/price-wallah/static/js/main.68658847.js.map",
-    "453.8785d31d.chunk.js.map": "/price-wallah/static/js/453.8785d31d.chunk.js.map"
+    "main.css": "/Sankhyadhersite/static/css/main.c638b197.css",
+    "main.js": "/Sankhyadhersite/static/js/main.ece8aba8.js",
+    "static/js/453.8785d31d.chunk.js": "/Sankhyadhersite/static/js/453.8785d31d.chunk.js",
+    "index.html": "/Sankhyadhersite/index.html",
+    "main.c638b197.css.map": "/Sankhyadhersite/static/css/main.c638b197.css.map",
+    "main.ece8aba8.js.map": "/Sankhyadhersite/static/js/main.ece8aba8.js.map",
+    "453.8785d31d.chunk.js.map": "/Sankhyadhersite/static/js/453.8785d31d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c638b197.css",
-    "static/js/main.68658847.js"
+    "static/js/main.ece8aba8.js"
   ]
 }
