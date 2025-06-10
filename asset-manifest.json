@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Sankhyadhersite/static/css/main.5443636b.css",
-    "main.js": "/Sankhyadhersite/static/js/main.4da2423e.js",
+    "main.js": "/Sankhyadhersite/static/js/main.56de6fe7.js",
     "static/js/453.8785d31d.chunk.js": "/Sankhyadhersite/static/js/453.8785d31d.chunk.js",
     "index.html": "/Sankhyadhersite/index.html",
     "main.5443636b.css.map": "/Sankhyadhersite/static/css/main.5443636b.css.map",
-    "main.4da2423e.js.map": "/Sankhyadhersite/static/js/main.4da2423e.js.map",
+    "main.56de6fe7.js.map": "/Sankhyadhersite/static/js/main.56de6fe7.js.map",
     "453.8785d31d.chunk.js.map": "/Sankhyadhersite/static/js/453.8785d31d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5443636b.css",
-    "static/js/main.4da2423e.js"
+    "static/js/main.56de6fe7.js"
   ]
 }
